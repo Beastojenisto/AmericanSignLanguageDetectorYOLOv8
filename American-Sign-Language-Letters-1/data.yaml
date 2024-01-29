@@ -1,0 +1,37 @@
+names:
+- A
+- B
+- C
+- D
+- E
+- F
+- G
+- H
+- I
+- J
+- K
+- L
+- M
+- N
+- O
+- P
+- Q
+- R
+- S
+- T
+- U
+- V
+- W
+- X
+- Y
+- Z
+nc: 26
+roboflow:
+  license: Public Domain
+  project: american-sign-language-letters
+  url: https://universe.roboflow.com/david-lee-d0rhs/american-sign-language-letters/dataset/1
+  version: 1
+  workspace: david-lee-d0rhs
+test: ../test/images
+train: American-Sign-Language-Letters-1/train/images
+val: American-Sign-Language-Letters-1/valid/images
